@@ -1,0 +1,150 @@
+Oke, gue gabungkan semua elemen terbaik dari tiga versi:
+
+ Nada tegas dan serius, karena ini presentasi proyek
+ Struktur alur fitur yang jelas dan runtut
+ Tetap ada celetukan, tapi pas di momen ringan — gak berlebihan
+ Menggunakan nama CORE dan logikanya tetap rapih dari awal sampai akhir
+
+Berikut hasil final skrip presentasi proyek CORE: City Operational & Response Ecosystem:
+
+
+
+## 🎬 Skrip Presentasi CORE (Durasi ±5 Menit)
+
+[Opening – suasana gelap, suara sirine samar di latar belakang]
+
+Narator (tenang tapi tajam):
+Gue cuma mau tanya satu hal:
+Gimana kalau ada aplikasi yang bisa nyelametin harta lo?
+Atau mungkin… hidup lo?
+Ya, hidup lo.
+
+[Visual: api kebakaran, maling kabur, warga panik, fade in ke wajah narator]
+
+Narator:
+Kenalin, kami tim mobile developer
+gue Nikki dan Bareng dua kawan gue (perkenalan 2 kawan ) 
+.
+Kami bikin sesuatu yang gak cuma canggih, tapi relevan.
+Bukan gimmick, bukan buat gaya-gayaan.
+
+Aplikasi ini namanya CORE —
+City Operational & Response Ecosystem.
+
+CORE adalah sistem yang ngebantu warga, pemkot, dan seluruh ekosistem kota biar jalan bareng.
+Responsif. Transparan. Real-time.
+CORE mungkin gak bisa jamin semua aman…
+Tapi kami pastikan: lo gak sendirian saat butuh bantuan.
+
+
+
+ 1. 🔴 Tombol Darurat – Waktu = Nyawa
+
+Narator:
+Kebakaran? Kemalingan? Ancaman pembunuhan?
+Klik tombol darurat di aplikasi CORE.
+Langsung aktif speaker seluruh desa — sirine nyala, warga siaga, aparat gerak.
+
+[Visual: warga pencet tombol, speaker nyala, orang keluar bantu]
+
+Narator:
+Gak perlu nunggu admin grup WA bales.
+Ini real-time, karena nyawa itu soal detik, bukan menit.
+
+Narator (celetukan ringan):
+Kesurupan pun boleh lah pencet... asal jangan tiap malam Jumat.
+Dan satu lagi—jangan coba-coba main-main.
+CORE kasih denda buat yang salah pakai tombol ini.
+Gue tau... kalau udah denda, baru pada sadar.
+
+
+
+ 2. 📝 Fitur Lapor – Suara Warga, Aksi Nyata
+
+Narator:
+Sampah numpuk? Jalan berlubang?
+Lo tinggal buka CORE, pilih kategori masalah, kasih keterangan, foto, dan kirim.
+Laporan lo langsung masuk ke dashboard Pemkot. Bukan ke grup gosip RT.
+
+[Visual: warga kirim laporan, masuk ke sistem, status laporan terlihat]
+
+Narator:
+Dan yang bikin beda?
+Kalau gak ada respon? Statusnya tetap nongol: BELUM DIRESPONS.
+Dan semua warga bisa liat.
+
+[Visual: pejabat dengan status “tidak aktif 2 hari”]
+
+Narator:
+Kalau laporan ditindaklanjuti?
+Pejabat WAJIB upload bukti foto dan narasi hasil kerja.
+Bukan katanya. Tapi ada faktanya.
+
+Narator (sindiran halus):
+Gak ada lagi yang bisa pura-pura sibuk padahal cuman ngopi di ruangan.
+
+
+
+ 3. 📞 Kontak Penting – Jangan Panik, Klik Aja
+
+Narator:
+Saat darurat, jangan buang waktu cari nomor polisi atau ambulance di Google.
+
+Narator:
+Di CORE, semua kontak penting udah tersedia:
+Polisi sektor, rumah sakit, pemadam, ambulance.
+Satu klik. Langsung terhubung.
+
+[Visual: tampilan kontak penting, klik call, telepon nyambung]
+
+Narator (celetukan santai):
+Karena 2025 itu bukan zaman pager.
+Tekan tombol, bukan tekan panik.
+
+
+
+ 4. 🚌 Bus Tracking – Biar Nunggu Gak Bikin Sakit Hati
+
+Narator:
+Lo pernah nunggu bus sejam tapi gak tau dia udah berangkat apa belum?
+Sekarang lo bisa lihat posisi bus real-time di aplikasi CORE.
+
+[Visual: tampilan peta, ikon bus bergerak, estimasi waktu muncul]
+
+Narator:
+Jadwal, lokasi, dan estimasi kedatangan — semua transparan.
+Gak ada lagi nunggu dengan harapan palsu.
+
+Narator (satu punchline):
+Sekarang lo bisa nunggu... tanpa rasa dihianati.
+
+
+
+ 🧠 Penutup – CORE, Sistem Cerdas untuk Kota Waspada
+
+[Visual: tim developer, kode berjalan, dashboard, peta kota digital]
+
+Narator:
+CORE bukan sekadar aplikasi. Ini sistem pertahanan digital warga sipil.
+Dari laporan kecil sampai nyawa yang dipertaruhkan —
+CORE ngebuktiin, kalau teknologi bisa dipakai untuk hal yang benar.
+
+[Zoom in ke logo CORE]
+
+Narator:
+CORE – City Operational & Response Ecosystem.
+Teknologi yang bikin kota gak cuma hidup…
+tapi juga waspada.
+
+[Teks akhir muncul: “Unduh CORE. Sebelum lo benar-benar butuh.”]
+
+
+
+Kalau ini udah cocok sama nada dan isi yang lo bayangin, kita bisa lanjut ke:
+
+ Storyboard visual presentasi
+ Materi pitch untuk Pemkot
+ Versi narasi formal buat proposal
+ Atau konten kampanye sosial yang edukatif dan powerful
+
+Mau lanjut ke mana dulu?
